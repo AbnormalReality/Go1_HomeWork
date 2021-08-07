@@ -1,1 +1,1 @@
-Go1_HomeWork
+Ветка ДЗ Go1
